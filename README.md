@@ -5,6 +5,7 @@ This repository contains the HTML source code for the online CV of Soumaya Ben A
 ## Table of Contents
 
 - [About](#about)
+- [Project URL](#project-url)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Setup](#setup)
@@ -16,6 +17,8 @@ This repository contains the HTML source code for the online CV of Soumaya Ben A
 ## About
 
 This HTML-based CV is a simple, clean, and professional way to showcase Soumaya Ben Ahmed’s skills and experience. It includes sections for her education, professional experience, technical skills, and links to her LinkedIn and GitHub profiles.
+## Project URL
+You can view the live version of the project here: [Project URL](https://your-project-url.com)
 
 ## Features
 
